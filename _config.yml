@@ -11,7 +11,7 @@ title: MingtypE # the main title
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  kkk.
+  준비중입니다.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://min33sky.github.io"
@@ -19,10 +19,10 @@ url: "https://min33sky.github.io"
 author: min33sky # change to your full name
 
 github:
-  username: github_username # change to your github username
+  username: min33sky # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: min33sky # change to your twitter username
 
 social:
   name: your_full_name # it will shows as the copyright owner in Footer
