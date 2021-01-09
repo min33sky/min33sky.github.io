@@ -8,7 +8,7 @@
 # --------------------------
 title: MingtypE # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 작성중입니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   준비중입니다.
@@ -32,7 +32,7 @@ social:
     # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/min33sky # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/mhheo
     # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
@@ -79,9 +79,10 @@ theme_mode: # [light|dark]
 # will automatically add the CDN endpoint prefix.
 #
 # Note: MUST remove it or replace with your CDN
-img_cdn: "https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images"
+# img_cdn: "https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images"
+img_cdn: "https://blog.kakaocdn.net/dn/0mySg/btqCUccOGVk/nQ68nZiNKoIEGNJkooELF1"
 
-avatar: /commons/avatar.jpg # the avatar on sidebar, support local or internet resources
+avatar: /img.jpg # the avatar on sidebar, support local or internet resources
 
 # boolean type, the global switch for ToC in posts.
 toc: true
