@@ -7,5 +7,3 @@ tags: [google analytics, pageviews]
 ---
 
 첫번째 글입니다.
-
-![ㅎㅎㅎㅎ](\assets\img\favicons\android-icon-36x36.png)
