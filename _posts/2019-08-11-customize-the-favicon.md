@@ -1,7 +1,7 @@
 ---
 title: Customize the Favicon
 author: Cotes Chung
-date: 2019-08-11 00:34:00 +0800
+date: 2019-08-11 00:34:00 +0900
 categories: [Blogging, Tutorial]
 tags: [favicon]
 toc: false
@@ -9,7 +9,7 @@ toc: false
 
 In [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/), the image files of [Favicons](https://www.favicon-generator.org/about/) are placed in `assets/img/favicons/`. You may need to replace them with your own. So let's see how to customize these Favicons.
 
-With a square image (PNG, JPG or GIF) in hand, open the site [*Favicon & App Icon Generator*](https://www.favicon-generator.org/) and upload your original image.
+With a square image (PNG, JPG or GIF) in hand, open the site [_Favicon & App Icon Generator_](https://www.favicon-generator.org/) and upload your original image.
 
 ![upload-image](/posts/20190811/upload-image.png)
 
@@ -29,11 +29,10 @@ The following table helps you understand the changes to the icon file:
 > ✓ means keep, ✗ means delete.
 
 | File(s)             | From Favicon & App Icon Generator | From Chirpy |
-|---------------------|:---------------------------------:|:-----------:|
-| `*.PNG`             | ✓                                 | ✗           |
-| `*.ICO`             | ✓                                 | ✗           |
-| `browserconfig.xml` | ✗                                 | ✓           |
-| `manifest.json`     | ✗                                 | ✓           |
-
+| ------------------- | :-------------------------------: | :---------: |
+| `*.PNG`             |                 ✓                 |      ✗      |
+| `*.ICO`             |                 ✓                 |      ✗      |
+| `browserconfig.xml` |                 ✗                 |      ✓      |
+| `manifest.json`     |                 ✗                 |      ✓      |
 
 The next time you build the site, the icon will be replaced with a customized edition.

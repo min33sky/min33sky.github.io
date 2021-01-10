@@ -1,7 +1,7 @@
 ---
 title: 전자 인증 (Electronic Authentication)
 author: MingtypE
-date: 2017-02-01 12:00:00 -0500
+date: 2017-02-01 12:00:00 +0900
 categories: [Study, Encryption]
 tags: [authentication, ssl]
 ---
