@@ -8,10 +8,10 @@
 # --------------------------
 title: MingtypE # the main title
 
-tagline: 작성중입니다. # it will display as the sub-title
+tagline: Web Development Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  준비중입니다.
+  A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://min33sky.github.io"
