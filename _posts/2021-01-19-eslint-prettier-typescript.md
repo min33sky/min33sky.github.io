@@ -32,7 +32,7 @@ extends: [
 
 3. `.prettierc`을 생성하여 원하는 prettier 설정을 추가하기
 
-### Full Code
+## Full Code
 
 ```js
 module.exports = {
