@@ -80,9 +80,10 @@ theme_mode: # [light|dark]
 #
 # Note: MUST remove it or replace with your CDN
 # img_cdn: "https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images"
-img_cdn: "https://blog.kakaocdn.net/dn/0mySg/btqCUccOGVk/nQ68nZiNKoIEGNJkooELF1"
+img_cdn: "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg"
 
-avatar: /img.jpg # the avatar on sidebar, support local or internet resources
+# avatar: /img.jpg # the avatar on sidebar, support local or internet resources
+avatar: /1200px-Chelsea_FC.svg.png # the avatar on sidebar, support local or internet resources
 
 # boolean type, the global switch for ToC in posts.
 toc: true
